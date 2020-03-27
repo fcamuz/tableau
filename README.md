@@ -11,3 +11,5 @@ Filters can be applied to all visualizations on the dashboard. It is an interact
 ![dashboard ](https://github.com/fcamuz/tableau/blob/master/Dashboard.png)
 
 https://public.tableau.com/shared/W4844X87C?:display_count=y&:origin=viz_share_link
+
+![https://github.com/fcamuz/tableau/blob/master/Dashboard.png](https://public.tableau.com/shared/W4844X87C?:display_count=y&:origin=viz_share_link)
